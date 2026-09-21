@@ -11,7 +11,7 @@ Looker Studio reports aren't downloadable files, there's nothing to clone or run
 - KPI scorecards (Clicks, Cost, Impressions, CTR, Avg. CPC, Conversions) with period-over-period comparison arrows
 - Trend chart comparing current performance against the same period last year
 - Campaign, ad group, and keyword-level breakdowns, plus device split analysis
-- Two pages: a quick-glance overview, and a deep-dive the client specifically flagged as the most useful section
+- Three pages: a quick-glance overview, a deep-dive the client specifically flagged as the most useful section, and a written conclusion summarising the period's real findings
 
 ## Key findings
 
@@ -23,6 +23,6 @@ Looker Studio reports aren't downloadable files, there's nothing to clone or run
 
 Looker Studio · Google Ads · Google Analytics 4 · Data Visualization
 
-## Screenshots
+## Pages
 
-See `/screenshots` for the Overview and Deep Dive pages.
+**[View all 3 pages (PDF)](./YOSA-Dashboard-Pages.pdf)** — Overview, Deep Dive, and Conclusion. GitHub renders this inline, no download needed.
